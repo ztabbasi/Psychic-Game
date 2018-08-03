@@ -8,7 +8,7 @@ Nice Description
 
 # Images
 
-![Picture]()
+![Picture](assets/images/Untitled.png)
 
 
 # code snippets
