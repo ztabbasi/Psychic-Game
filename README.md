@@ -11,6 +11,12 @@ There are 10 attempst allowed.
 
 ![Picture](assets/images/Untitled.png)
 
+# Technologies used
+
+HTML
+CSS
+Javascript
+
 
 # code snippets
 
